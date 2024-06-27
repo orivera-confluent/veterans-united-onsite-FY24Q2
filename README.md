@@ -33,7 +33,7 @@ Raviteja Appalla - Manager, Solutions Engineering
 | Topic                                 | Time (CT)       | Presenter                        |
 | --------------------------------------- | ----------------- | ---------------------------------- |
 | Workshop Kickoff & Intros             | 11:00a - 10:10a | Confluent & Veterans United Teams                   |
-| Confluent Roadmap | 11:10a - 12:00p | Kevin Blaisdel   |
+| Confluent Roadmap | 11:10a - 12:00p | Kevin Blaisdell   |
 | Confluent State of the Business                                 | 12:00p - 12:20 | Anthony Lee           |
 | Confluent Cloud Migration Discussion                    | 12:20p - 12:50p  | Oscar Rivera             |
 | Closing & Aligning on Next Steps      | 12:50p - 1:00p   | Confluent & Veterans United Teams        |
